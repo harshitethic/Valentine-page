@@ -2,6 +2,9 @@
 
 <p>Welcome to our Valentine Page! This simple yet heartfelt page is designed to help you express your feelings to that special someone. With just a touch of HTML, CSS, and JavaScript magic, you can ask that important question: "Will you be my Valentine?"</p>
 
+![image](https://github.com/harshitethic/Valentine-page/assets/66710144/1cddc2ac-ce32-4b5c-835a-5990e6514cd3)
+
+
 <h2>How it Works</h2>
 
 <p>The process is simple:</p>
